@@ -1,0 +1,12 @@
+C:\Users\zacha\source\repos\Files\Files\bin\Debug\Files.exe.config
+C:\Users\zacha\source\repos\Files\Files\bin\Debug\Files.exe
+C:\Users\zacha\source\repos\Files\Files\bin\Debug\Files.pdb
+C:\Users\zacha\source\repos\Files\Files\bin\Debug\Files.xml
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.vbprojAssemblyReference.cache
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.Form1.resources
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.Resources.resources
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.vbproj.GenerateResource.cache
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.vbproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.exe
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.xml
+C:\Users\zacha\source\repos\Files\Files\obj\Debug\Files.pdb
