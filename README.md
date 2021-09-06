@@ -36,7 +36,7 @@ For troubleshooting on Files, go to [https://github.com/Zachary-Rude/files/issue
 
 Go to [https://download-files.zacharyrude.repl.co/](https://download-files.zacharyrude.repl.co/), and then click on the green Download button.
 
-After which, you'll get a file called "Files.msi". Click on it, and you might get a Windows Defender box, but just click on More info and then Run anyway. After which, you'll get the setup wizard, which will help you install Files on your computer.
+After which, you'll get a file called "setup.exe". Click on it, and you might get a Windows Defender box, but just click on More info and then Run anyway. After which, you'll get the setup wizard, which will help you install Files on your computer.
 
 Click "Next >".
 
