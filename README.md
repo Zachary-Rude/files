@@ -16,7 +16,7 @@ Files is a simple and homemade file manager app for Windows, written in Visual B
 
 #### **Method 1: Downloading the Code**
 
-Go to [https://github.com/Zachary-Rude/files](https://github.com/Zachary-Rude/files/), and then click on the green "&darr; Code:" button, and then click on "Download ZIP", and then extract the "Files.sln" file.
+Go to [https://github.com/Zachary-Rude/files](https://github.com/Zachary-Rude/files/), and then click on the green "&darr; Code" button, and then click on "Download ZIP", and then extract the "Files.sln" file.
 
 #### __Method 2: Cloning the Repository__
 
@@ -26,7 +26,7 @@ Assuming that Git is installed on your computer, open the command line (Command 
 git clone https://github.com/Zachary-Rude/files
 ```
 
-No matter which method you use, assuming that you have all of the prerequisites installed on your computer, double-click on the extracted "Files.sln" to open it, and then click on "&#9654; Start" to run the app.
+No matter which method you use, assuming that you have all of the prerequisites installed on your computer, double-click on the "Files.sln" file to open it, and then click on "▶ Start" to run the app.
 
 ## **Troubleshooting**
 
