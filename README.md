@@ -1,4 +1,4 @@
-_WARNING: This app is deprecated. Please use the newer, propietary Files app instead._
+_WARNING: This app is deprecated and is no longer mantained. Please use the newer, propietary Files app instead._
 
 ![Files Window](images/Files.png)
 
