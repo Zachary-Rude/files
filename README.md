@@ -1,3 +1,5 @@
+_WARNING: This app is deprecated. Please use the newer, propietary Files app instead._
+
 ![Files Window](images/Files.png)
 
 # **Files**
